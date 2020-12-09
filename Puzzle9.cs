@@ -53,7 +53,7 @@ namespace AdventOfCode
         }
         #endregion
 
-        #region Part 1
+        #region Part 2
         public static void SolvePuzzle9_P2(string inputFile)
         {
             List<long> inputData = new List<long>();
